@@ -24,6 +24,6 @@ RUN rm -rf tagspaces-web.zip
 
 EXPOSE 80
 
-VOLUME /data
+VOLUME /usr/share/nginx/html/data
 
 
